@@ -1,0 +1,11 @@
+# settings
+.vscode
+.settings
+.idea
+.inspections
+
+# classes
+target/
+
+# variables
+.env
