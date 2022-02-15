@@ -110,15 +110,14 @@ public class ThirukkuralBot extends TelegramLongPollingBot {
                             || update.getMessage().isSuperGroupMessage() == false) {
                         message.setReplyMarkup(markupInline);
                     }
-                    Message time = execute(message);
+                    Message msg = execute(message);
                     SendMessage logStart = new SendMessage();
                     logStart.setChatId(getLogGroup());
                     logStart.enableHtml(true);
-                    Date date = new Date((long) time.getDate() * 1000);
-                    logStart.setText(username + " started me on <code>" + time.getChatId() + "</code>"
-                            + " at " + date);
+                    logStart.setText("#NewUserOn" + getBotUsername() + "\n\nName: " + username + "\nUser ID: <code>"
+                            + update.getMessage().getFrom().getId() + "</code>\nStarted on: <code>" + msg.getChatId()
+                            + "</code>");
                     execute(logStart);
-
                 } catch (Exception e) {
                     logging(e, msgChatId,
                             update.getMessage().getChat().getTitle(), msgId,
@@ -208,7 +207,7 @@ public class ThirukkuralBot extends TelegramLongPollingBot {
             SendMessage log = new SendMessage();
             log.setChatId(getLogGroup());
             log.enableHtml(true);
-            log.setText("🗑 Exception Event!\n\nChat: <code>" + erChatTitle + "</code>\nVictim: " + erUsrId
+            log.setText("#ExceptionOn"+getBotUsername()+"\n\nChat: <code>" + erChatTitle + "</code>\nVictim: " + erUsrId
                     + "\nChat ID: <code>" + erchatId + "</code>\nMessage ID: <code>" + ermsgId
                     + "</code>\nTarget: <a href=\"" + erLink + "\">Click</a>\n\nError:\n<code>" + error + "</code>");
             Message msg = new Message();
