@@ -2,10 +2,13 @@
 
 <details><summary>Table of Contents</summary>  
     <br>
+
   - [🧾 Description](#-description)
   - [⏬ Installation](#-installation)
   - [🛠 TODO(s)](#-todos)
   - [🌟 Credits](#-credits)
+
+  ---
 </details>
 
 [![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=for-the-badge&logo=gith)]()
