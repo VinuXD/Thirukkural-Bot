@@ -81,7 +81,7 @@ public class ThirukkuralBot extends TelegramLongPollingBot {
                     List<InlineKeyboardButton> rowInline3 = new ArrayList<>();
 
                     InlineKeyboardButton button1 = new InlineKeyboardButton();
-                    button1.setUrl("https://github.com/vinuxd/Thirukkural-Bot");
+                    button1.setUrl("https://github.com/VinuXD/Thirukkural-Bot");
                     button1.setText("👨‍💻 Source Code");
 
                     InlineKeyboardButton button2 = new InlineKeyboardButton();
