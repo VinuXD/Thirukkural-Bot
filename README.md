@@ -1,13 +1,21 @@
-# 📚 Thirukkural Telegram Bot 🤖
+## Thirukkural Telegram Bot 💡
+---
+<br>
 
 <img align="center" alt="wtf?" src=https://malaikovil.files.wordpress.com/2017/04/mzl-yrujcpws.png></img>
 
-## 🧾 Description
+---
+<br>
+
+### 🧾 Description
 
 * Telegram bot designed to send random thirukkural made in Java.
 * [Click here to start bot](https://telegram.me/ThirukkuralRobot?start=start)
 
-## ⏬ Installation
+---
+<br>
+
+### ⏬ Installation
 
 * Clone this repository to your local machine.
 
@@ -20,11 +28,17 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 * Run ThirukkuralBot.java
 * It starts on your local server. Go to your telegram bot and type /start to get started.
 
-## 🛠 TODO(s)
+---
+<br>
+
+### 🛠 TODO(s)
 
 * `Nothing..`
 
-## 🌟 Credits
+---
+<br>
 
-* [Rubenlagus](https://github.com/rubenlagus) for his awesome [Java Telegram Bot Api](https://github.com/rubenlagus/javatelegrambots) library.
+### 🌟 Credits
+
+* [Rubenlagus](https://github.com/rubenlagus) for his awesome [Java Telegram Bot Api](https://github.com/rubenlagus/telegrambots) library.
 * [Me](https://github.com/vinuxd) : )
