@@ -1,5 +1,12 @@
 ## Thirukkural Telegram Bot
----
+
+<details><summary>Table of Contents</summary>  
+    <br>
+  - [🧾 Description](#-description)
+  - [⏬ Installation](#-installation)
+  - [🛠 TODO(s)](#-todos)
+  - [🌟 Credits](#-credits)
+</details>
 
 [![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=for-the-badge&logo=gith)]()
 [![quality](https://img.shields.io/github/languages/top/vinuxd/thirukkural-bot?style=for-the-badge)]()
@@ -10,14 +17,6 @@
 <img align="center" alt="wtf?" src=https://malaikovil.files.wordpress.com/2017/04/mzl-yrujcpws.png></img>
 
 ---
-<details><summary>Table of Contents</summary>         
-
-  - [🧾 Description](#-description)
-  - [⏬ Installation](#-installation)
-  - [🛠 TODO(s)](#-todos)
-  - [🌟 Credits](#-credits)
-</details>
-<br>
 
 ### 🧾 Description
 
