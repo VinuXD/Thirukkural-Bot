@@ -1,11 +1,9 @@
-## Thirukkural Telegram Bot 💡
+## Thirukkural Telegram Bot
 ---
-<br>
 
 <img align="center" alt="wtf?" src=https://malaikovil.files.wordpress.com/2017/04/mzl-yrujcpws.png></img>
 
 ---
-<br>
 
 ### 🧾 Description
 
@@ -13,7 +11,6 @@
 * [Click here to start bot](https://telegram.me/ThirukkuralRobot?start=start)
 
 ---
-<br>
 
 ### ⏬ Installation
 
@@ -29,14 +26,12 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 * It starts on your local server. Go to your telegram bot and type /start to get started.
 
 ---
-<br>
 
 ### 🛠 TODO(s)
 
 * `Nothing..`
 
 ---
-<br>
 
 ### 🌟 Credits
 
