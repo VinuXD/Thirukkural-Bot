@@ -53,7 +53,7 @@ public class ThirukkuralBot extends TelegramLongPollingBot {
         if (update.hasMessage() && update.getMessage().hasText()) {
 
             String username = "<a href=\"tg://user?id=" + update.getMessage().getFrom().getId() + "\">"
-                    + update.getMessage().getFrom().getFirstName() + "</a>";
+                    + update.getMessage().getFrom().getFirstName().replaceAll("[^a-zA-Z0-9]", " ") + "</a>";
             String startText = "Hello " + username
                     + ",\nI can send you thirukkural its meaning, translations with additional information.\nClick /help to learn more!";
             String helpText = "Hello " + username
