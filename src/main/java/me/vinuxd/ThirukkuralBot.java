@@ -4,6 +4,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
@@ -109,7 +110,15 @@ public class ThirukkuralBot extends TelegramLongPollingBot {
                             || update.getMessage().isSuperGroupMessage() == false) {
                         message.setReplyMarkup(markupInline);
                     }
-                    execute(message);
+                    Message time = execute(message);
+                    SendMessage logStart = new SendMessage();
+                    logStart.setChatId(getLogGroup());
+                    logStart.enableHtml(true);
+                    Date date = new Date((long) time.getDate() * 1000);
+                    logStart.setText(username + " started me on <code>" + time.getChatId() + "</code>"
+                            + " at " + date);
+                    execute(logStart);
+
                 } catch (Exception e) {
                     logging(e, msgChatId,
                             update.getMessage().getChat().getTitle(), msgId,
