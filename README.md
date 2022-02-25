@@ -2,13 +2,13 @@
 
 # Thirukkural Bot
 
-[![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=plastic)]()
-[![quality](https://img.shields.io/github/languages/top/vinuxd/thirukkural-bot?style=plastic)]()
-[![size](https://img.shields.io/github/repo-size/vinuxd/thirukkural-bot?style=plastic)]()
-[![issues](https://img.shields.io/github/issues/vinuxd/thirukkural-bot?style=plastic)]()
-[![license](https://img.shields.io/github/license/vinuxd/thirukkural-bot?style=plastic)]()
+[![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=flat)]()
+[![quality](https://img.shields.io/github/languages/top/vinuxd/thirukkural-bot?style=flat)]()
+[![size](https://img.shields.io/github/repo-size/vinuxd/thirukkural-bot?style=flat)]()
+[![issues](https://img.shields.io/github/issues/vinuxd/thirukkural-bot?style=flat)]()
+[![license](https://img.shields.io/github/license/vinuxd/thirukkural-bot?style=flat)]()
 
-A telegram bot that provides thirukkural in tamil with its english translation.
+A telegram bot that provides thirukkural in tamil with its english translation with more information.
 
 
 ## Features
@@ -54,7 +54,7 @@ Read the following carefully,
 should clearly state all changes, should clearly disclose full source code, should include same license
 and all copyrights should be retained.
 
-1. In simple words, You can ONLY use the source code for `Open Source` Project under `GPL v3.0` or later
+2. In simple words, You can ONLY use the source code for `Open Source` Project under `GPL v3.0` or later
 with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
 how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
 Use of this software under any "non-free" license is NOT permitted.
@@ -74,12 +74,13 @@ Visit [Telegram Channel](https://t.me/BotUpdatesXD) for updates.
 
 ## TODOs
 
-```diff
-! This repository is deprecated and moved to a private repository.
-```
 
 1. [ ] Schedule bot to send kural in every groups at a specific time.
 2. [x] Write program to get kural with its number.
 3. [x] Add Threads to make bot faster.
 4. [x] Improve logging in console & telegram.
 
+
+```diff
+! This repository is deprecated and moved to a private repository.
+```
