@@ -1,6 +1,6 @@
 <img align="center" alt="wtf?" src=https://malaikovil.files.wordpress.com/2017/04/mzl-yrujcpws.png></img>
 
-# Thirukkural Telegram Bot
+# Thirukkural Bot
 
 [![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=plastic)]()
 [![quality](https://img.shields.io/github/languages/top/vinuxd/thirukkural-bot?style=plastic)]()
@@ -41,6 +41,8 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 
 ## License
 
+![GPLv3 LOGO](https://gnu.org/graphics/gplv3-127x51.png)
+
 ```txt
 Copyright © 2022 VINU
 Thirukkural-Bot is a free software licensed under GPL V3.0
@@ -52,14 +54,11 @@ Read the following carefully,
 should clearly state all changes, should clearly disclose full source code, should include same license
 and all copyrights should be retained.
 
-2. In simple words, You can ONLY use the source code for `Open Source` Project under `GPL v3.0` or later
+1. In simple words, You can ONLY use the source code for `Open Source` Project under `GPL v3.0` or later
 with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
 how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
 Use of this software under any "non-free" license is NOT permitted.
 ```
-
-![GPLv3 LOGO](https://gnu.org/graphics/gplv3-127x51.png)
-
 
 ## Credits
 
@@ -67,18 +66,20 @@ Use of this software under any "non-free" license is NOT permitted.
 * [Me](https://github.com/vinuxd) OFC.
 
 
-```diff
-! This repository is deprecated and moved to a private repository.
-```
 
 ## Changelogs
 
-Visit [Telegram Channel](https://t.me/BotUpdatesXD) to get updates.
+Visit [Telegram Channel](https://t.me/BotUpdatesXD) for updates.
 
 
-## Private Repository TODOs
+## TODOs
+
+```diff
+! This repository is deprecated and moved to a private repository.
+```
 
 1. [ ] Schedule bot to send kural in every groups at a specific time.
 2. [x] Write program to get kural with its number.
 3. [x] Add Threads to make bot faster.
 4. [x] Improve logging in console & telegram.
+
