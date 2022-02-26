@@ -28,7 +28,7 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 ```
 
 * Rename `.env.example` to `.env`
-* Fill [.env](#`variables`) variables.
+* Fill [.env](#variables) variables.
 * Navigate to `src/main/java/me/vinuxd/ThirukkuralBot.java`
 * Run `ThirukkuralBot.java`
 * It starts on your local server. 
