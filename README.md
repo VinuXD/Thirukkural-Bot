@@ -1,4 +1,4 @@
-<img align="center" alt="wtf?" src=https://raw.githubusercontent.com/VinuXD/Portfolio-assets/master/Projects/thirukkural.png></img>
+[![wtf?](https://raw.githubusercontent.com/VinuXD/Portfolio-assets/master/Projects/thirukkural.png)]()
 
 # Thirukkural Bot
 
