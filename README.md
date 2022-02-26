@@ -1,14 +1,15 @@
-<img align="center" alt="wtf?" src=https://malaikovil.files.wordpress.com/2017/04/mzl-yrujcpws.png></img>
+<img align="center" alt="wtf?" src=https://raw.githubusercontent.com/VinuXD/Portfolio-assets/master/Projects/thirukkural.jpeg></img>
 
 # Thirukkural Bot
 
 A telegram bot that provides thirukkural in tamil its english translations with all information!</br>Liked my work? Don't forget to :star: the repo :)
 
+[![java](https://img.shields.io/badge/Made%20with-JAVA-orange.svg?style=flat)]()
 [![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=flat)]()
-[![quality](https://img.shields.io/github/languages/top/vinuxd/thirukkural-bot?style=flat)]()
+[![Website vinuxd.github.io/Thirukkural-Bot](https://img.shields.io/website-up-down-green-red/https/vinuxd.github.io/Thirukkural-Bot.svg?style=flat)]()
 [![size](https://img.shields.io/github/repo-size/vinuxd/thirukkural-bot?style=flat)]()
 [![issues](https://img.shields.io/github/issues/vinuxd/thirukkural-bot?style=flat)]()
-[![license](https://img.shields.io/github/license/vinuxd/thirukkural-bot?style=flat)]()
+[![license](https://img.shields.io/github/license/vinuxd/thirukkural-bot?style=flat&color=yellow)]()
 
 
 ## Features
