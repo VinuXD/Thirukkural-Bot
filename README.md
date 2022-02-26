@@ -2,7 +2,7 @@
 
 # Thirukkural Bot
 
-A telegram bot that provides thirukkural in tamil, english translations with all information! Liked my work? Don't forget to :star: the repo :)
+A telegram bot that provides thirukkural in tamil its english translations with all information!</br>Liked my work? Don't forget to :star: the repo :)
 
 [![stars](https://img.shields.io/github/stars/vinuxd/thirukkural-bot?style=flat)]()
 [![quality](https://img.shields.io/github/languages/top/vinuxd/thirukkural-bot?style=flat)]()
@@ -28,7 +28,7 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 ```
 
 * Rename `.env.example` to `.env`
-* Fill `.env` variables.
+* Fill [.env](#`variables`) variables.
 * Navigate to `src/main/java/me/vinuxd/ThirukkuralBot.java`
 * Run `ThirukkuralBot.java`
 * It starts on your local server. 
@@ -36,6 +36,21 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 
 ```diff
 - Note: Support for deploying in VPS server will not be given.
+```
+
+
+## Variables
+
+```bash
+# Bot Username without @
+BOT_USERNAME=
+
+# Bot Token. Get one from @BotFather
+BOT_TOKEN=
+
+# Add @MissRose_Bot in a dedicated private group
+# Then send /id. (Eg: -100*********)
+LOG_GROUP=
 ```
 
 
@@ -47,16 +62,19 @@ git clone https://github.com/VinuXD/Thirukkural-Bot.git
 Copyright © 2022 VINU
 Thirukkural-Bot is a free software licensed under GPL V3.0
 
-Being Open Source doesn't mean you can just make a copy and change anything and release it.
+Being Open Source doesn't mean you can just make a copy and change anything 
+and release it.
 Read the following carefully,
 
-1. You must provide the copy with the original software or with instructions on how to obtain original software,
-should clearly state all changes, should clearly disclose full source code, should include same license
+1. You must provide the copy with the original software or with instructions 
+on how to obtain original software, should clearly state all changes, should
+clearly disclose full source code, should include same license
 and all copyrights should be retained.
 
-2. In simple words, You can ONLY use the source code for `Open Source` Project under `GPL v3.0` or later
-with all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on
-how to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
+2. In simple words, You can ONLY use the source code for `Open Source` Project 
+under `GPL v3.0` or later with all your source code CLEARLY DISCLOSED on any code 
+hosting platform like GitHub, with clear INSTRUCTIONS on how to obtain the original 
+software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.
 Use of this software under any "non-free" license is NOT permitted.
 ```
 
@@ -64,13 +82,12 @@ Use of this software under any "non-free" license is NOT permitted.
 ## Credits
 
 * [Rubenlagus](https://github.com/rubenlagus) for his awesome [TelegramBots](https://github.com/rubenlagus/telegrambots) library.
-* [Me](https://github.com/vinuxd) OFC.
-
+* OFC [Me](https://github.com/vinuxd).
 
 
 ## Changelogs
 
-Visit [Telegram Channel](https://t.me/BotUpdatesXD) for updates.
+Visit the [Telegram Channel](https://t.me/BotUpdatesXD) for updates.
 
 
 ## TODOs
@@ -79,7 +96,6 @@ Visit [Telegram Channel](https://t.me/BotUpdatesXD) for updates.
 2. [x] Write program to get kural with its number.
 3. [x] Add Threads to make bot faster.
 4. [x] Improve logging in console & telegram.
-
 
 ```diff
 ! This repository is deprecated and moved to a private repository.
