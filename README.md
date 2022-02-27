@@ -54,6 +54,27 @@ BOT_TOKEN=
 LOG_GROUP=
 ```
 
+## FAQs
+
+### How can I schedule bot to send Thirukkural daily in my Group?
+
+* **Its Automated!** All you need is *patience* btw. Just add [Thirukkural Bot](https://t.me/ThirukkuralRobot?startgroup=true) to your group and wait untill **6.30 AM IST**.
+* Psst🤫! Rarely very rarely, If you really doesn't get a daily digest, Kick and re-add the bot.
+
+
+### How can I opt out from daily digest?
+
+* **NO!** You can't, Coz there is *no protocol* at our end for opting out. If you don't want to receive daily digest, just **remove the bot** from your group.
+* If you really *don't want* to get daily digest and want [Thirukkural Bot](https://t.me/ThirukkuralRobot) **that badly?** Head to the [Support Chat](https://t.me/VINUsChat).
+
+
+### I have no Groups in common with Thirukkural Bot still can I get daily digest?
+
+* **Absolutely!** Join this [Dedicated Channel](https://t.me/ThirukkuralEveryday) which is *maintained by me*, to get daily digest.
+
+---
+
+Still having any questions? You are free to ask in the [Support Chat](https://t.me/VINUsChat).
 
 ## License
 
