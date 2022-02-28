@@ -74,7 +74,7 @@ LOG_GROUP=
 
 ---
 
-Still having any questions? You are free to ask in the [Support Chat](https://t.me/VINUsChat).
+Still unclear? [Support Chat](https://t.me/VINUsChat) is for you!.
 
 ## License
 
