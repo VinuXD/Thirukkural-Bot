@@ -114,7 +114,7 @@ Visit the [Telegram Channel](https://t.me/BotUpdatesXD) for updates.
 
 ## TODOs
 
-1. [ ] Schedule bot to send kural in every groups at a specific time.
+1. [x] Schedule bot to send kural in every groups at a specific time.
 2. [x] Write program to get kural with its number.
 3. [x] Add Threads to make bot faster.
 4. [x] Improve logging in console & telegram.
