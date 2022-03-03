@@ -16,7 +16,7 @@ A telegram bot that provides thirukkural in tamil its english translations with 
 
 * Get Random Thirukkural.
 * Get Thirukkural with its number.
-* Get a daily digest of thirukkural in every groups.[EXAMPLE](https://t.me/ThirukkuralEveryday)
+* Get a daily digest of thirukkural in every groups. [[EXAMPLE](https://t.me/ThirukkuralEveryday)]
 * [Click here to start the bot](https://telegram.me/ThirukkuralRobot?start)
 
 
